@@ -1,4 +1,5 @@
-
+  Hi, I'm Rahul 👨‍💻
+  I am a Machine-learning enthusiast and Python Developer. I am passionate about technologies and love to learn new things.
 I love coding in Python :snake:. I'm currently working on my final year project and learning Machine Learning
 
 <!--
