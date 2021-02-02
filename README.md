@@ -1,6 +1,8 @@
-  Hi, I'm Rahul 👨‍💻
+ # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Rahul 👨‍💻
+ 
+ 
   I am a Machine-learning enthusiast and Python Developer. I am passionate about technologies and love to learn new things.
-I love coding in Python :snake:. I'm currently working on my final year project and learning Machine Learning
+   >Love coding in Python :snake:. I'm currently working on my final year project and learning Machine Learning
 
 <!--
 **yearahul/yearahul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
