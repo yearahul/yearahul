@@ -1,7 +1,7 @@
  # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Rahul 👨‍💻
  
  
-  I am a Machine-learning enthusiast and Python Developer. I am passionate about technologies and love to learn new things.
+  A Machine-learning enthusiast and Python Developer. I'm passionate about technologies and love to learn new things.
    >Love coding in Python :snake:. I'm currently working on my final year project and learning Machine Learning
 
 <!--
